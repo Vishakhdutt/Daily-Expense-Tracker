@@ -1,0 +1,28 @@
+# Environment variables & secrets
+.env
+*.env
+!.env.example
+
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & Editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
